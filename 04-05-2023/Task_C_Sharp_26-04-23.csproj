@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Task_C_Sharp_26_04_23</RootNamespace>
+    <StartupObject>Task_C_Sharp_26_04_23._28_Strong_Number</StartupObject>
+  </PropertyGroup>
+
+</Project>

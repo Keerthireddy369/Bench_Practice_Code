@@ -1,0 +1,16 @@
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\bin\Debug\net5.0\C_Sharp_18-04-23_Basics.exe
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\bin\Debug\net5.0\C_Sharp_18-04-23_Basics.deps.json
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\bin\Debug\net5.0\C_Sharp_18-04-23_Basics.runtimeconfig.json
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\bin\Debug\net5.0\C_Sharp_18-04-23_Basics.runtimeconfig.dev.json
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\bin\Debug\net5.0\C_Sharp_18-04-23_Basics.dll
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\bin\Debug\net5.0\ref\C_Sharp_18-04-23_Basics.dll
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\bin\Debug\net5.0\C_Sharp_18-04-23_Basics.pdb
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\C_Sharp_18-04-23_Basics.csproj.AssemblyReference.cache
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\C_Sharp_18-04-23_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\C_Sharp_18-04-23_Basics.AssemblyInfoInputs.cache
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\C_Sharp_18-04-23_Basics.AssemblyInfo.cs
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\C_Sharp_18-04-23_Basics.csproj.CoreCompileInputs.cache
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\C_Sharp_18-04-23_Basics.dll
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\ref\C_Sharp_18-04-23_Basics.dll
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\C_Sharp_18-04-23_Basics.pdb
+C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\obj\Debug\net5.0\C_Sharp_18-04-23_Basics.genruntimeconfig.cache

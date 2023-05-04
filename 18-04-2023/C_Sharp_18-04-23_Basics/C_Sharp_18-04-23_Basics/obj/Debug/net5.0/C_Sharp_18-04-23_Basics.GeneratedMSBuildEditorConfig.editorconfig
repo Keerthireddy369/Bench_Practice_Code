@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = C_Sharp_18_04_23_Basics
+build_property.ProjectDir = C:\Users\kosaikee\source\repos\C_Sharp_18-04-23_Basics\C_Sharp_18-04-23_Basics\
